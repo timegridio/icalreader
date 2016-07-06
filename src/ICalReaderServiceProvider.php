@@ -11,7 +11,7 @@ class ICalReaderServiceProvider extends ServiceProvider
      *
      * @var bool
      */
-    protected $defer = true;
+    protected $defer = false;
 
     /**
      * Register any package services.
