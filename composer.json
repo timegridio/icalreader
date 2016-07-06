@@ -4,7 +4,15 @@
     "description": "iCal reader wrapper for Laravel 5",
     "keywords": [
         "timegridio",
-        "ical-reader"
+        "icalreader",
+        "calendar",
+        "ical",
+        "parser",
+        "api",
+        "events",
+        "timegrid",
+        "time",
+        "date"
     ],
     "homepage": "https://github.com/timegridio/icalreader",
     "license": "MIT",
