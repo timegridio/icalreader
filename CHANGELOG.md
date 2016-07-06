@@ -1,13 +1,15 @@
 # Changelog
 
-All Notable changes to `ical-reader` will be documented in this file.
+All Notable changes to `icalreader` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
-## NEXT - YYYY-MM-DD
+## v1.1.0 - 2016-07-06
 
 ### Added
-- Nothing
+- Laravel 5 Service Provider
+- ICalEvents
+- ICalEvent
 
 ### Deprecated
 - Nothing
