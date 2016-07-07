@@ -71,6 +71,8 @@ If you discover any security related issues, please email alariva@timegrid.io in
 
 ## Credits
 
+- [Martin Thoma](https://github.com/MartinThoma)
+- [John Grogg](https://github.com/johngrogg)
 - [Ariel Vallese][link-author]
 - [All Contributors][link-contributors]
 
