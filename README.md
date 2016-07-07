@@ -2,6 +2,9 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
+[![Build Status][ico-travis]][link-travis]
+[![Test Coverage][ico-codeclimate-coverage]][link-codeclimate-coverage]
+[![Code Climate][ico-codeclimate-quality]][link-codeclimate-quality]
 [![Coverage Status][ico-scrutinizer]][link-scrutinizer]
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
@@ -78,11 +81,16 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-version]: https://img.shields.io/packagist/v/timegridio/icalreader.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/timegridio/icalreader/master.svg?style=flat-square
+[ico-codeclimate-coverage]: https://codeclimate.com/github/timegridio/icalreader/badges/coverage.svg?style=flat-square
+[ico-codeclimate-quality]: https://codeclimate.com/github/timegridio/icalreader/badges/gpa.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/timegridio/icalreader.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/timegridio/icalreader.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/timegridio/icalreader.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/timegridio/icalreader
+[link-travis]: https://travis-ci.org/timegridio/icalreader
+[link-codeclimate-coverage]: https://codeclimate.com/github/timegridio/icalreader/coverage
+[link-codeclimate-quality]: https://codeclimate.com/github/timegridio/icalreader
 [link-scrutinizer]: https://scrutinizer-ci.com/g/timegridio/icalreader/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/timegridio/icalreader
 [link-downloads]: https://packagist.org/packages/timegridio/icalreader
