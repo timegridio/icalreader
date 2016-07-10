@@ -34,6 +34,16 @@ class ICalEvent
             );
     }
 
+    public function getStart()
+    {
+        return $this->start;
+    }
+
+    public function getEnd()
+    {
+        return $this->end;
+    }
+
     protected function setStart($datetime, $timezone)
     {
         $this->start = $this->makeTimestamp($datetime, $timezone);
