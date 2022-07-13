@@ -25,13 +25,12 @@
         }
     ],
     "require": {
-        "php" : "~5.6|~7.0"
+        "php": ">=5.6"
     },
     "require-dev": {
         "phpunit/phpunit" : "~4.0||~5.0",
         "scrutinizer/ocular": "~1.1",
         "squizlabs/php_codesniffer": "~2.3",
-        "codeclimate/php-test-reporter": "dev-master",
         "laracasts/testdummy": "~2.3",
         "orchestra/testbench": "~3.2.0",
         "nesbot/carbon": "~1.21"
@@ -56,6 +55,11 @@
     "extra": {
         "branch-alias": {
             "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
         }
     }
 }
